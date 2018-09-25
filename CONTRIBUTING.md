@@ -25,7 +25,7 @@ Please be aware that the package is used in a wide variety of environments and t
 - Make sure that your code works both with and without Django
 - The code should support:
   - Python >= 2.7
-  - Django >= 1.11
+  - Django >= 1.8
 
 ## Code contribution
 
@@ -75,7 +75,7 @@ Make sure that your code works both with and without Django
 The code should support:
 
   - Python >= 2.7
-  - Django >= 1.11
+  - Django >= 1.8
 
 Make sure that tests completes without errors.
 
